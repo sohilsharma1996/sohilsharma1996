@@ -5,7 +5,7 @@ An Engineer with a Passion to learn everyday new and develop skills<br><br>1.  C
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sharmaji_k.a.beta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohil-sharma/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20845045/sohil-sharma) [![Kaggle](https://img.shields.io/badge/-Kaggle-%23FF9900.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/sohilsharma1996)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sharmaji_k.a.beta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohil-sharma/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20845045/sohil-sharma) [![Kaggle](https://img.shields.io/badge/-Kaggle-%23430098.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/sohilsharma1996)
 
 
 # 💻 Tech Stack:
