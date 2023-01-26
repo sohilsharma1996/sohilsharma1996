@@ -24,7 +24,7 @@ An Engineer with a Passion to learn everyday new and develop skills<br><br>1.  C
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohilsharma1996&theme=radical&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohilsharma1996&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
  <div>
-  <a href="https://github.com/sohilsharma">
+  <a href="https://github.com/sohilsharma1996">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohilsharma1996&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohilsharma1996&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
