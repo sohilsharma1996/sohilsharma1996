@@ -30,7 +30,7 @@ An Engineer with a Passion to learn everyday new and develop skills<br><br>1.  C
 </div>
 
 ### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/sohilsharma1996/github-readme-activity-graph)
+[![Sohil Sharma's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sohilsharma1996&theme=github-compact)](https://github.com/sohilsharma1996/github-readme-activity-graph)
 
 ---
 ![Snake animation](https://github.com/sohilsharma1996/sohilsharma1996/blob/output/github-contribution-grid-snake.svg)
