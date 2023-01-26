@@ -31,6 +31,10 @@ An Engineer with a Passion to learn everyday new and develop skills<br><br>1.  C
 
 ### 📈 GitHub Activity Graph:
 [![Sohil Sharma's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sohilsharma1996&theme=github-compact)](https://github.com/sohilsharma1996/github-readme-activity-graph)
+  
+<!--   profile-green-animate -->
+ ### Profile - Green-Animated
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 ![Snake animation](https://github.com/sohilsharma1996/sohilsharma1996/blob/output/github-contribution-grid-snake.svg)
