@@ -8,7 +8,7 @@
 </p>
 
 # 💫 About Me:
-An Engineer with a Passion to learn everyday new and develop skills<br><br>1.  Currently Employed at Ericsson Global India Pvt. Ltd.<br>2. Currently Learning Data Science and Machine Learning with Specialization in AI.<br>
+An Engineer with a Passion to learn everyday new and develop skills<br><br>1.  Data Scientist at Brillio Technology.<br>2. Currently Learning Data Science and Machine Learning with Specialization in AI.<br>
 
 ## 🌐 Socials:
 [![Kaggle](https://img.shields.io/badge/-Kaggle-%23430098.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/sohilsharma1996) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohil-sharma/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20845045/sohil-sharma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sharmaji_k.a.beta/) 
